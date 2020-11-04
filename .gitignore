@@ -1,0 +1,6 @@
+# The extracted images
+cell_images/
+
+# Virtualenv
+.env/
+.venv/
