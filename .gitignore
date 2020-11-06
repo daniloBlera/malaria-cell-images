@@ -4,3 +4,6 @@ cell_images/
 # Virtualenv
 .env/
 .venv/
+
+# VS Code local configs
+.vscode/
